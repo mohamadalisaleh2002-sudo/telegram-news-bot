@@ -1,4 +1,4 @@
-requests
-feedparser
-flask
-gunicorn
+flask==3.1.1
+gunicorn==23.0.0
+requests==2.32.4
+feedparser==6.0.11
